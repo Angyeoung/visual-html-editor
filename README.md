@@ -3,6 +3,9 @@ A visual HTML editor
 
 # Todo
 - [X] Basic index page for testing
-- [ ] Popup UI on element click
+- [X] Popup UI on element click
+    - [X] Button functionality
+    - [ ] Organized menu creation, setters for inputs
+- [X] Text + font size editing,
+- [ ] margin/padding, position editing
 - [ ] Sidebar UI for complex editing
-- [ ] Text, margin/padding, position editing
